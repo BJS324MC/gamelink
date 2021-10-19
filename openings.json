@@ -1,0 +1,440 @@
+{
+  "openings" : {
+    "d4" : {
+      "Nf6" : {
+        "Nc3" : {
+          "c5" : {
+            "name" : "Indian Game,Reverse Chigorin Defense"
+          },
+          "name" : "Indian Game, 2.Nc3"
+        },
+        "c4" : {
+          "e6" : {
+            "name" : "Indian Game, East Indian Defense"
+          },
+          "g6" : {
+            "Nc3" : {
+              "Bg7" : {
+                "e4" : {
+                  "O-O" : {
+                    "Nf3" : {
+                      "d6" : {
+                        "name" : "King's Indian Defense, Normal Variation, 4.e4 d6 5.Nf3 O-O"
+                      },
+                      "name" : "King's Indian Defense, Normal Variation, 4.e4 O-O 5.Nf3"
+                    },
+                    "name" : "King's Indian Defense, Normal Variation, 4.e4 O-O"
+                  },
+                  "d6" : {
+                    "Nf3" : {
+                      "O-O" : {
+                        "name" : "King's Indian Defense, Normal Variation, 4.e4 d6 5.Nf3 O-O"
+                      },
+                      "name" : "King's Indian Defense, Normal Variation, 4.e4 d6 5.Nf3"
+                    },
+                    "name" : "King's Indian Defense, Normal Variation, 4.e4 d6"
+                  },
+                  "name" : "King's Indian Defense, Normal Variation, 4.e4"
+                },
+                "name" : "King's Indian Defense, Normal Variation"
+              },
+              "name" : "King's Indian Defense, 3.Nc3"
+            },
+            "name" : "King's Indian Defense"
+          },
+          "name" : "Indian Game, 2.c4"
+        },
+        "name" : "Indian Game"
+      },
+      "d5" : {
+        "Bf4" : {
+          "name" : "Accelerated London System"
+        },
+        "Nf3" : {
+          "Nf6" : {
+            "Bf4" : {
+              "c5" : {
+                "e3" : {
+                  "Qb6" : {
+                    "name" : "London System, 3...c5 4.e3 Qb6"
+                  },
+                  "name" : "London System, 3...c5 4.e3"
+                },
+                "name" : "London System, 3.c5"
+              },
+              "name" : "London System"
+            },
+            "name" : "Queen's Pawn Opening, Symmetrical Variation"
+          },
+          "name" : "Queen's Pawn Opening: Zukertort Variation"
+        },
+        "c4" : {
+          "dxc4" : {
+            "name" : "Queen's Gambit Accepted"
+          },
+          "e6" : {
+            "name" : "Queen's Gambit Declined"
+          },
+          "name" : "Queen's Gambit"
+        },
+        "name" : "Queen's Pawn Opening,1. ...d5"
+      },
+      "name" : "Queen's Pawn Opening"
+    },
+    "e4" : {
+      "Nf6" : {
+        "e5" : {
+          "Nd5" : {
+            "c4" : {
+              "Nb6" : {
+                "c5" : {
+                  "name" : "Alekhine's Defense, Two Pawns Attack, Lasker Variation"
+                },
+                "name" : "Alekhine's Defense, Two Pawns Attack, 3...Nb6"
+              },
+              "name" : "Alekhine's Defense, Two Pawns Attack"
+            },
+            "name" : "Alekhine's Defense, Normal Variation"
+          },
+          "Ng8" : {
+            "name" : "Alekhine's Defense, Brooklyn Variation"
+          },
+          "name" : "Alekhine's Defense, 2.e5"
+        },
+        "name" : "Alekhine's Defense"
+      },
+      "c5" : {
+        "d4" : {
+          "name" : "Sicilian Defense, Smith-Morra Gambit"
+        },
+        "name" : "Sicilian Defense, Closed"
+      },
+      "c6" : {
+        "d4" : {
+          "d5" : {
+            "e5" : {
+              "Bf5" : {
+                "name" : "Caro-Kann Defense, Advance Variation, 3...Bf5"
+              },
+              "name" : "Caro-Kann Defense, Advance Variation"
+            },
+            "f3" : {
+              "dxe4" : {
+                "fxe4" : {
+                  "name" : "Caro-Kann Defense, Fantasy Variation, 3...dxe4 4.fxe4"
+                },
+                "name" : "Caro-Kann Defense, Fantasy Variation, 3...dxe4"
+              },
+              "name" : "Caro-Kann Defense, Fantasy Variation"
+            },
+            "name" : "Caro-Kann Defense, 2.d4 d5"
+          },
+          "name" : "Caro-Kann Defense, 2.d4 "
+        },
+        "name" : "Caro-Kann Defense"
+      },
+      "d5" : {
+        "exd5" : {
+          "Qxd5" : {
+            "name" : "Scandinavian Defense, Mieses-Kotrč Variation"
+          },
+          "name" : "Scandinavian Defense,2. exd5"
+        },
+        "name" : "Scandinavian Defense"
+      },
+      "e5" : {
+        "Bc4" : {
+          "Nf6" : {
+            "Nf3" : {
+              "name" : "Petrov's Defense, Urusov Gambit"
+            },
+            "name" : "Bishop's Opening, Berlin Defense"
+          },
+          "name" : "Bishop's Opening"
+        },
+        "Nc3" : {
+          "Bc5" : {
+            "name" : "Vienna Game, Anderssen Defense"
+          },
+          "Nc6" : {
+            "g3" : {
+              "Bc5" : {
+                "Bg2" : {
+                  "name" : "Vienna Game, Max Lange, Paulsen Variation, 3...Bc5 4.Bg2"
+                },
+                "name" : "Vienna Game, Max Lange, Paulsen Variation, 3...Bc5"
+              },
+              "name" : "Vienna Game, Max Lange, Paulsen Variation"
+            },
+            "name" : "Vienna Game, Max Lange Defense"
+          },
+          "Nf6" : {
+            "f4" : {
+              "d5" : {
+                "fxe5" : {
+                  "Nxe4" : {
+                    "Nf3" : {
+                      "Bg4" : {
+                        "Qe2" : {
+                          "name" : "Vienna Game, Main Line, Kaufmann Variation"
+                        },
+                        "name" : "Vienna Game, Main Line, 4.fxe5 Nxe4 5.Nf3 Bg4"
+                      },
+                      "name" : "Vienna Game, Main Line, 4.fxe5 Nxe4 5.Nf3"
+                    },
+                    "Qf3" : {
+                      "Nxc3" : {
+                        "bxc3" : {
+                          "name" : "Vienna Game, Main Line, Paulsen Attack, 5...Nxc3 6.bxc3"
+                        },
+                        "name" : "Vienna Game, Main Line, Paulsen Attack, 5...Nxc3"
+                      },
+                      "name" : "Vienna Game, Main Line, Paulsen Attack"
+                    },
+                    "d3" : {
+                      "Qh4+" : {
+                        "g3" : {
+                          "Nxg3" : {
+                            "Nf3" : {
+                              "Qh5" : {
+                                "Nxd5" : {
+                                  "name" : "Vienna Game, Main Line, Modern, Würzburger Trap"
+                                },
+                                "name" : "Vienna Game, Main Line, Modern Variation, 5...Qh4+ 6.g3 Nxg3 7.Nf3 Qh5"
+                              },
+                              "name" : "Vienna Game, Main Line, Modern Variation, 5...Qh4+ 6.g3 Nxg3 7.Nf3"
+                            },
+                            "name" : "Vienna Game, Main Line, Modern Variation, 5...Qh4+ 6.g3 Nxg3"
+                          },
+                          "name" : "Vienna Game, Main Line, Modern Variation, 5...Qh4+ 6.g3"
+                        },
+                        "name" : "Vienna Game, Main Line, Modern Variation, 5...Qh4+"
+                      },
+                      "name" : "Vienna Game, Main Line, Modern Variation"
+                    },
+                    "name" : "Vienna Game, Main Line, 4.fxe5 Nxe4"
+                  },
+                  "name" : "Vienna Game, Main Line, 4.fxe5"
+                },
+                "name" : "Vienna Game, Main Line"
+              },
+              "exf4" : {
+                "name" : "Vienna Gambit Accepted"
+              },
+              "name" : "Vienna Gambit"
+            },
+            "name" : "Vienna Game,Falkbeer Variation"
+          },
+          "name" : "Vienna Game"
+        },
+        "Nf3" : {
+          "Nc6" : {
+            "Bb5" : {
+              "a6" : {
+                "Ba4" : {
+                  "name" : "Ruy López Opening, Morphy Defense, Columbus Variation"
+                },
+                "Bxc6" : {
+                  "name" : "Ruy López Opening, Morphy Defense, Exchange Variation"
+                },
+                "name" : "Ruy López Opening, Morphy Defense"
+              },
+              "name" : "Ruy López Opening"
+            },
+            "Bc4" : {
+              "Bc5" : {
+                "O-O" : {
+                  "Nf6" : {
+                    "name" : "Giuoco Piano Game, 4.O-O Nf6"
+                  },
+                  "name" : "Giuoco Piano Game, 4.O-O"
+                },
+                "name" : "Giuoco Piano Game"
+              },
+              "Nf6" : {
+                "Ng5" : {
+                  "Bc5" : {
+                    "Bxf7+" : {
+                      "name" : "Italian Game, Traxler, Bishop Sacrifice Line"
+                    },
+                    "Nxf7" : {
+                      "name" : "Italian Game, Traxler, Knight Sacrifice Line"
+                    },
+                    "name" : "Italian Game,Traxler Counterattack"
+                  },
+                  "name" : "Italian Game, Knight Attack"
+                },
+                "O-O" : {
+                  "Bc5" : {
+                    "name" : "Giuoco Piano Game, 4.O-O Nf6"
+                  },
+                  "name" : "Italian Game, Two Knights Defense, 4.O-O"
+                },
+                "d4" : {
+                  "Nxe4" : {
+                    "name" : "Italian Game, Two Knights, Open, 4...Nxe4"
+                  },
+                  "exd4" : {
+                    "e5" : {
+                      "name" : "Scotch Game, Scotch Gambit, Dubois Réti, Advance Variation"
+                    },
+                    "name" : "Scotch Game, Scotch Gambit, Dubois Réti Defense"
+                  },
+                  "name" : "Italian Game, Two Knights, Open"
+                },
+                "name" : "Italian Game, Two Knights Defense"
+              },
+              "name" : "Italian Game"
+            },
+            "Nc3" : {
+              "Nf6" : {
+                "Bb5" : {
+                  "Bb4" : {
+                    "O-O" : {
+                      "O-O" : {
+                        "Bxc6" : {
+                          "name" : "Four Knights Game, Double Spanish, Nimzowitsch Variation"
+                        },
+                        "Nd5" : {
+                          "Nxd5" : {
+                            "exd5" : {
+                              "e4" : {
+                                "name" : "Four Knights Game, Double Spanish, Gunsberg Counterattack"
+                              },
+                              "name" : "Four Knights Game, Double Spanish Variation, 5.O-O O-O 6.Nd5 Nxd5 7.exd5"
+                            },
+                            "name" : "Four Knights Game, Double Spanish Variation, 5.O-O O-O 6.Nd5 Nxd5"
+                          },
+                          "name" : "Four Knights Game, Double Spanish Variation, 5.O-O O-O 6.Nd5"
+                        },
+                        "d3" : {
+                          "d6" : {
+                            "name" : "Four Knights Game, Double Spanish, Symmetrical Variation"
+                          },
+                          "name" : "Four Knights Game, Double Spanish Variation, 5.O-O O-O 6.d3"
+                        },
+                        "name" : "Four Knights Game, Double Spanish Variation, 5.O-O O-O"
+                      },
+                      "name" : "Four Knights Game, Double Spanish Variation, 5.O-O"
+                    },
+                    "name" : "Four Knights Game, Double Spanish Variation"
+                  },
+                  "name" : "Four Knights Game, Spanish Variation"
+                },
+                "Bc4" : {
+                  "name" : "Four Knights Game, Italian Variation"
+                },
+                "d4" : {
+                  "Bb4" : {
+                    "d5" : {
+                      "Nd4" : {
+                        "name" : "Four Knights Game, Scotch, Oxford Gambit"
+                      },
+                      "name" : "Four Knights Game, Scotch Variation, 4...Bb4 5.d5"
+                    },
+                    "name" : "Four Knights Game, Scotch Variation, 4...Bb4"
+                  },
+                  "exd4" : {
+                    "Nxd4" : {
+                      "Bb4" : {
+                        "Nxc6" : {
+                          "bxc6" : {
+                            "name" : "Four Knights Game, Scotch Variation Accepted, 5.Nxd4 Bb4 6.Nxc6 bxc6"
+                          },
+                          "name" : "Four Knights Game, Scotch Variation Accepted, 5.Nxd4 Bb4 6.Nxc6"
+                        },
+                        "name" : "Four Knights Game, Scotch Variation Accepted, 5.Nxd4 Bb4"
+                      },
+                      "name" : "Four Knights Game, Scotch Variation Accepted, 5.Nxd4"
+                    },
+                    "name" : "Four Knights Game, Scotch Variation Accepted"
+                  },
+                  "name" : "Four Knights Game, Scotch Variation"
+                },
+                "name" : "Four Knights Game"
+              },
+              "name" : "Three Knights Opening"
+            },
+            "d4" : {
+              "exd4" : {
+                "Bc4" : {
+                  "Nf6" : {
+                    "e5" : {
+                      "name" : "Scotch Game, Scotch Gambit, Dubois Réti, Advance Variation"
+                    },
+                    "name" : "Scotch Game, Scotch Gambit, Dubois Réti Defense"
+                  },
+                  "name" : "Scotch Game, Scotch Gambit"
+                },
+                "Nxd4" : {
+                  "Bc5" : {
+                    "Be3" : {
+                      "name" : "Scotch Game, Classical Variation, 5.Be3"
+                    },
+                    "name" : "Scotch Game, Classical Variation"
+                  },
+                  "name" : ""
+                },
+                "name" : "Scotch Game, 3...exd4"
+              },
+              "name" : "Scotch Game"
+            },
+            "name" : "King's Pawn Opening, King's Knight Variation, 2...Nc6"
+          },
+          "Nf6" : {
+            "Bc4" : {
+              "name" : "Petrov's Defense, Urusov Gambit"
+            },
+            "Nxe5" : {
+              "Nc6" : {
+                "name" : "Petrov's Defense, Classical, Stafford Gambit"
+              },
+              "Nxe4" : {
+                "Qe2" : {
+                  "name" : "Petrov's Defense, Classical, Damiano Variation, 4.Qe2"
+                },
+                "name" : "Petrov's Defense, Classical, Damiano Variation"
+              },
+              "name" : "Petrov's Defense, Classical Variation"
+            },
+            "name" : "Petrov Defense"
+          },
+          "name" : "King's Pawn Opening,King's Knight Variation"
+        },
+        "d4" : {
+          "d5" : {
+            "name" : "Center Game, Beyer Gambit"
+          },
+          "exd4" : {
+            "name" : "Center Game Accepted"
+          },
+          "name" : "Center Game"
+        },
+        "name" : "King's Pawn Opening,1. ...e5"
+      },
+      "name" : "King's Pawn Opening"
+    },
+    "f4" : {
+      "e5" : {
+        "fxe5" : {
+          "d6" : {
+            "exd6" : {
+              "Bxd6" : {
+                "Nf3" : {
+                  "name" : "Bird's Opening, From's Gambit, 2.fxe5 d6 3.exd6 Bxd6 4.Nf3"
+                },
+                "name" : "Bird's Opening, From's Gambit, 2.fxe5 d6 3.exd6 Bxd6"
+              },
+              "name" : "Bird's Opening, From's Gambit, 2.fxe5 d6 3.exd6"
+            },
+            "name" : "Bird's Opening, From's Gambit, 2.fxe5 d6"
+          },
+          "name" : "Bird's Opening, From's Gambit, 2.fxe5"
+        },
+        "name" : "Bird's Opening, From's Gambit"
+      },
+      "name" : "Bird's Opening"
+    },
+    "name" : "Starting Position"
+  }
+}
