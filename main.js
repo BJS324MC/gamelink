@@ -1,8 +1,8 @@
-function dark() {
+const dark = () => {
   for (let e of document.querySelectorAll("div")) e.classList.toggle("dark");
   document.querySelector("section").classList.toggle("dark");
   document.body.classList.toggle("dark");
-}
+};
 function rand() {
   let r = Math.random() > 0.5, f = bubbles.length,
     b = new Bubble({
@@ -20,9 +20,9 @@ function rand() {
     });
   bubbles.push(b);
 }
-const info = document.querySelector("section").getBoundingClientRect();
+let info = document.querySelector("section").getBoundingClientRect();
 const back = document.getElementById("background"), backctx = back.getContext('2d');
-const ws = info.width / 1124; ws /= 1.5;
+const ws = (info.width / 1124)/1.5;
 back.width = info.width;
 back.height = info.height;
 let bubbles = [], delay = 0;
